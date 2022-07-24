@@ -12,6 +12,7 @@ import cucumber.api.java.en.When;
 public class PurchaseSteps {
     @Given("^I am on sauceDemo page$")
     public void iAmOnSauceDemoPage() {
+        //
     }
 
     @When("^I enter username \"([^\"]*)\" and password \"([^\"]*)\"$")
